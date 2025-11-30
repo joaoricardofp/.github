@@ -10,20 +10,20 @@ Some of the tools and technologies I work with:
 
 - **Languages:** [JavaScript, TypeScript, Python…]  
 - **Front-end:** [React, Next.js, TailwindCSS…]  
-- **Back-end:** [Node.js, Fastify, Prisma, PostgreSQL…]  
+- **Back-end:** [Node.js, Fastify, Prisma, PostgreSQL, **GraphQL**…]  
 - **DevOps & Tools:** [Docker, Git, CI/CD…]  
-- **Others:** [Socket.io, Redis, GraphQL, REST, WebSockets…]
+- **Others:** [Socket.io, Redis, **GraphQL**, REST, WebSockets…]
 
 ---
 
 ## 🧩 Professional Skills
 
-- Modern application architecture (API, services, real-time)
-- Full-stack development with performance in mind
-- Best practices: clean code, design patterns, documentation
-- Experience with relational & NoSQL databases
-- Design systems, UX fundamentals and practical interfaces
-- Workflow automation & continuous improvement
+- Modern application architecture (API, services, real-time, **GraphQL APIs**)  
+- Full-stack development with performance in mind  
+- Best practices: clean code, design patterns, documentation  
+- Experience with relational & NoSQL databases  
+- Design systems, UX fundamentals and practical interfaces  
+- Workflow automation & continuous improvement  
 
 ---
 
@@ -39,7 +39,7 @@ Some of the tools and technologies I work with:
 
 ## 📚 Currently focusing on
 
-- Expanding knowledge in [Real-Time Web, scalable architecture, WebGL, Canvas, applied AI…]  
+- Expanding knowledge in [Real-Time Web, scalable architecture, **GraphQL federation**, WebGL, Canvas, applied AI…]  
 - Development of the [Eonys] project  
 - Strengthening good practices for modern full-stack applications  
 
@@ -55,6 +55,7 @@ Some of the tools and technologies I work with:
   <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs" />
   <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql" />
   <img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/GraphQL-000?style=for-the-badge&logo=graphql" />
 </p>
 
 ---
