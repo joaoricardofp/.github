@@ -1,65 +1,73 @@
-## 🚀 Building meaningful digital experiences
+# 👋 Hey, I'm JoãoRicardoFP  
+Full-stack developer • Tech explorer • UI/UX enthusiast
 
-Developer focused on creating scalable, reliable and well-designed solutions. I value clarity, structure and efficiency — always combining technology, best practices and a design approach that truly makes sense for real users.
+I'm a Brazilian developer passionate about creating meaningful digital experiences through clean interfaces, elegant systems, and modern engineering.  
+I build things that are **fast**, **minimal**, and **intentional** — always balancing design, functionality, and technical depth.
 
----
+Right now, I'm on a journey shaped by:
 
-## 🧠 Tech Stack
+- **Full-stack development** (TypeScript, Next.js, Node, GraphQL)  
+- **Design & UI/UX** (clean, minimal, modern)  
+- **Systems architecture** (APIs, real-time apps, performance-focused stacks)  
 
-Some of the tools and technologies I work with:
-
-- **Languages:** [JavaScript, TypeScript, Python…]  
-- **Front-end:** [React, Next.js, TailwindCSS…]  
-- **Back-end:** [Node.js, Fastify, Prisma, PostgreSQL, **GraphQL**…]  
-- **DevOps & Tools:** [Docker, Git, CI/CD…]  
-- **Others:** [Socket.io, Redis, **GraphQL**, REST, WebSockets…]
+My work spans creativity, development, and technical exploration.
 
 ---
 
-## 🧩 Professional Skills
+## 🧪 JRFP Laboratory  
+> My personal space for research, prototypes, experiments, and explorations in software.
 
-- Modern application architecture (API, services, real-time, **GraphQL APIs**)  
-- Full-stack development with performance in mind  
-- Best practices: clean code, design patterns, documentation  
-- Experience with relational & NoSQL databases  
-- Design systems, UX fundamentals and practical interfaces  
-- Workflow automation & continuous improvement  
+A hub where I test ideas, stacks, tools, and concepts.  
+Everything that starts small, breaks, improves, evolves — and sometimes becomes something bigger.
 
----
-
-## 🌱 Soft Skills
-
-- Problem-solving based on logic and analysis  
-- Clear and objective communication  
-- Fast learning and adaptability  
-- Organization and product-oriented mindset  
-- Teamwork and collaboration  
+🔗 **https://jrfp.dev**
 
 ---
 
-## 📚 Currently focusing on
+## 🎨 Evenesy Studio  
+> My creative brand — crafting interfaces, visual identities, and modern web experiences.
 
-- Expanding knowledge in [Real-Time Web, scalable architecture, **GraphQL federation**, WebGL, Canvas, applied AI…]  
-- Development of the [Eonys] project  
-- Strengthening good practices for modern full-stack applications  
+Where design meets engineering.  
+I use it to deliver high-quality UI/UX, landing pages, and web projects.
 
----
-
-## 🛠️ Tech Badges
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript" />
-  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs" />
-  <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql" />
-  <img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker" />
-  <img src="https://img.shields.io/badge/GraphQL-000?style=for-the-badge&logo=graphql" />
-</p>
+🔗 **https://evenesy.com**
 
 ---
 
-## ✨ Always leveling up
+## 🧩 Eonys (in development)  
+> A collaborative platform I'm building — focused on communication, organization, and real-time teamwork.
 
-Constantly exploring new ways to build, organize and improve systems. Technology moves fast — and I like keeping up with depth, consistency and purpose.
+My most ambitious project so far.
+
+🔗 **https://eonys.com.br**
+
+---
+
+## 🧠 Philosophy
+
+> *Build. Break. Learn. Iterate.*  
+> Criar rápido, aprender rápido, evoluir sempre.
+
+---
+
+## 🛠 Tech Stack Highlights
+
+- **Languages:** TypeScript, JavaScript, PHP, C#  
+- **Frontend:** Next.js, React, Nuxt, Tailwind CSS  
+- **Backend:** Node.js, GraphQL, REST  
+- **Database:** SQL, NoSQL  
+- **Tools:** tRPC, GSAP, Docker, GIT  
+- **Design:** Figma, UI/UX minimalism, system thinking  
+
+---
+
+## 🌐 Find me around
+
+- Personal website: **https://joaoricardofp.com**  
+- LinkedIn: **https://www.linkedin.com/in/joaoricardofp/**  
+- Email: **contact@joaoricardofp.com**
+
+---
+
+Thanks for stopping by 👋  
+Feel free to explore my work, experiments, and ongoing ideas.
