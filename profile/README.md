@@ -1,4 +1,4 @@
-# 👋 Hey, I'm JoãoRicardoFP  
+# 👋 Hey, I'm JoãoRFP  
 Full-stack developer • Tech explorer • UI/UX enthusiast
 
 I'm a Brazilian developer passionate about creating meaningful digital experiences through clean interfaces, elegant systems, and modern engineering.  
