@@ -37,6 +37,8 @@ Real-time features (in progress)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=joaoricardofp&theme=tokyonight)
 
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaoricardofp&theme=tokyonight)
+
 ---
 
 ## 🎯 Career Objective
