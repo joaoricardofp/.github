@@ -1,44 +1,53 @@
-# 👋 Hey, I'm JRFP  
-Full-stack developer • Tech explorer • UI/UX enthusiast
+# Hi, I'm João Ricardo (JRFP) 👋
 
-I'm a developer passionate about creating meaningful digital experiences through clean interfaces, elegant systems, and modern engineering.  
-I build things that are **fast**, **minimal**, and **intentional** — always balancing design, functionality, and technical depth.
+Full-Stack Developer in development, focused on building structured and production-oriented web applications.
 
-Right now, I'm on a journey shaped by:
-
-- **Full-stack development** (TypeScript, Next.js, Node, GraphQL)  
-- **Design & UI/UX** (clean, minimal, modern)  
-- **Systems architecture** (APIs, real-time apps, performance-focused stacks)  
-
-My work spans creativity, development, and technical exploration.
+I enjoy working across the entire stack — from UI architecture to backend logic and database modeling — always aiming for clean, scalable and maintainable systems.
 
 ---
 
-## 🧠 Philosophy
+## 🚀 Currently Building
 
-> *Build. Break. Learn. Iterate.*  
-> Criar rápido, aprender rápido, evoluir sempre.
+### 💰 Personal Finance System (Full-Stack)
+A structured financial management system designed as a real-world product.
 
----
+**Stack:**  
+Next.js • TypeScript • Prisma • PostgreSQL • Auth.js • React Query
 
-## 🛠 Tech Stack Highlights
-
-- **Languages:** TypeScript, JavaScript, PHP, C#  
-- **Frontend:** Next.js, React, Nuxt, Tailwind CSS  
-- **Backend:** Node.js, GraphQL, REST  
-- **Database:** SQL, NoSQL  
-- **Tools:** tRPC, GSAP, Docker, GIT  
-- **Design:** Figma, UI/UX minimalism, system thinking  
+**Architecture:**  
+Controller → Service → Model pattern  
+Authentication with JWT  
+Structured database modeling  
+Real-time features (in progress)
 
 ---
 
-## 🌐 Find me around
+## 🧠 Technical Focus
 
-- Personal website: **https://joaoricardofp.com**  
-- LinkedIn: **https://www.linkedin.com/in/joaoricardofp**  
-- Email: **hello@jrfp.dev**
+- Full-Stack Web Development
+- Clean Architecture & Layered Design
+- Authentication & Authorization Flows
+- API Design (REST / GraphQL concepts)
+- Database Modeling (PostgreSQL)
+- Scalable Frontend Structure with React
 
 ---
 
-Thanks for stopping by 👋  
-Feel free to explore my work, experiments, and ongoing ideas.
+## 📊 GitHub Stats
+
+![João's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaoricardofp&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoricardofp&layout=compact&theme=tokyonight)
+
+---
+
+## 🎯 Career Objective
+
+Currently looking for **Junior Full-Stack Developer opportunities** where I can grow in a collaborative environment and contribute to real-world products.
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/joaoricardofp
+- Portfolio: https://jrfp.dev
