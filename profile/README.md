@@ -6,22 +6,6 @@ I enjoy working across the entire stack — from UI architecture to backend logi
 
 ---
 
-## 🚀 Currently Building
-
-### 💰 Personal Finance System (Full-Stack)
-A structured financial management system designed as a real-world product.
-
-**Stack:**  
-Next.js • TypeScript • Prisma • PostgreSQL • Auth.js • React Query
-
-**Architecture:**  
-Controller → Service → Model pattern  
-Authentication with JWT  
-Structured database modeling  
-Real-time features (in progress)
-
----
-
 ## 🧠 Technical Focus
 
 - Full-Stack Web Development
